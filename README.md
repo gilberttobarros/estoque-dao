@@ -10,7 +10,7 @@
 
 | | |
 |---|---|
-| **Aluno** | Gilberto Barros |
+| **Aluno** | Gilberto Barros & Amanda Martins|
 | **Curso** | Bacharelado em Sistemas de Informação |
 | **Instituição** | Centro Universitário Santa Terezinha (CEST) |
 | **Período** | 7º período |
